@@ -3,9 +3,9 @@
       // Email Stream File To CIF List                                                              
       //                                                                                            
       //                                                                                            
-      // CRTRPGMOD MODULE(JDEOBJP/P55040) SRCFILE(JDEOBJP/SERSRCLE)                                 
+      // CRTRPGMOD MODULE(lib/P55040) SRCFILE(lib/file)                                 
       //           DBGVIEW(*SOURCE)                                                                 
-      // CRTPGM PGM(JDEOBJP/P55040) MODULE(P55040 PCS001)                                           
+      // CRTPGM PGM(lib/P55040) MODULE(P55040 PCS001)                                           
       //                                                                                            
       // T23335 04.16.2013 Charlie McLean                                                           
       //                                                                                            
