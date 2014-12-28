@@ -1,0 +1,16 @@
+/*--------------------------------------------------------------------+                             
+ *                                                                    +                             
+ *  Email Stream File To CIF List                                     +                             
+ *  CPP: P55040                                                       +                             
+ *                                                                    +                             
+ *  T23335   04.16.2013  Charlie McLean                               +                             
+ *           project stated                                           +                             
+ *                                                                    +                             
+ *-------------------------------------------------------------------*/                             
+             CMD        PROMPT('Copy Stream File to CIF List')                                      
+             PARM       KWD(PARM1) TYPE(*CHAR) LEN(256) MIN(1) +                                    
+                          PROMPT('Qualified Stream File Name')                                      
+             PARM       KWD(PARM2) TYPE(*CHAR) LEN(8) MIN(1) +                                      
+                          PROMPT('Address Book Number For CIF')                                     
+             PARM       KWD(PARM3) TYPE(*CHAR) LEN(32) MIN(1) +                                     
+                          PROMPT('Lib/Src File/Member - Body')                                      
